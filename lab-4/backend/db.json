@@ -1,0 +1,12 @@
+{
+  "books": [
+    { "id": 1, "name": "Dế Mèn phiêu lưu ký", "author": "Tô Hoài", "category": "fiction" },
+    { "id": 2, "name": "Số đỏ", "author": "Vũ Trọng Phụng", "category": "fiction" },
+    { "id": 3, "name": "Tắt đèn", "author": "Ngô Tất Tố", "category": "fiction" },
+    { "id": 4, "name": "Nhà giả kim", "author": "Paulo Coelho", "category": "fiction" },
+    { "id": 5, "name": "Đắc nhân tâm", "author": "Dale Carnegie", "category": "non-fiction" },
+    { "id": 6, "name": "Sapiens: Lược sử loài người", "author": "Yuval Noah Harari", "category": "non-fiction" },
+    { "id": 7, "name": "Tuổi trẻ đáng giá bao nhiêu", "author": "Rosie Nguyễn", "category": "non-fiction" },
+    { "id": 8, "name": "Clean Code", "author": "Robert C. Martin", "category": "non-fiction" }
+  ]
+}

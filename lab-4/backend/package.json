@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db": "json-server --watch db.json --port 3001",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "my-app": "file:.."
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4",
+    "nodemon": "^3.1.0"
+  }
+}
